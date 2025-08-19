@@ -1,6 +1,6 @@
-# Seen Instagram Stories Anonymously 🕵️‍♂️
+# Seen Instagram Stories Anonymously 
 
-**Seen Instagram Stories Anonymously** is a Chrome extension that allows you to view Instagram stories without notifying the user. You can toggle the extension ON/OFF from the browser toolbar.  
+Seen Instagram Stories Anonymously** is a Chrome extension that allows you to view Instagram stories without notifying the user. You can toggle the extension ON/OFF from the browser toolbar.  
 
 ---
 
